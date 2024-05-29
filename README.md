@@ -1,4 +1,5 @@
 The task:
+
 A common market research or business analytics task is to build a sales model,
 also called a “marketing mix model” (MMM). For this coursework, imagine that the
 manufacturer of a fast-moving consumer goods (FMCG) brand hires you as an analyst and
