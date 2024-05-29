@@ -120,60 +120,6 @@ The line in the QQ plot represents the expected quantiles of a normal distributi
 closely with this line; it indicates that the residuals are approximately normally distributed. However, there
 are a few points that deviate noticeably from the line, which indicates the presence of outliers or
 observations with unusual characteristics.
-● VIF for Multicollinearity Check
-Covariates GVIF Interpretation
-Tv Advertisements 1.060134 A low degree of multicollinearity
-is shown by GVIF values near 1,
-which implies that the variable
-and the other predictors in the
-model do not have a strong
-correlation.
-For instance, in our situation,
-wage has a GVIF value that is
-rather near to 1, suggesting that
-there is no significant
-multicollinearity between it and
-the other variables.
-Banners 1.016450
-Store Promotions 1.043469
-Wage 1.014750
-Region 1.018111
-Table 1: VIF results
-● ANOVA Results
-Covariates Pr(>F) Interpretation
-Tv Advertisements 0.01722 Approximately a 1.72% chance
-that the observed effect of TV
-Advertisement on sales is due to
-random variability, while the
-remaining 98.28% suggests a
-real, statistically significant
-impact.
-Banners 2.2 X 10-16 An extremely low p-value,
-approaching zero, can be
-thought of as a near 99.99%
-certainty that the observed effect
-of Banners on sales is not due to
-random chance but is a highly
-significant impact.
-Store Promotions 7.985 X 10-9 Approximately 0.0000007985%
-chance that the observed effect
-of Promotions on sales is due to
-random variability, while the
-remaining 99.99% suggests a
-real, statistically significant
-impact.
-Wage 2.2 X 10-16 Like Banners, an extremely low
-p-value indicates near 99.99%
-certainty that the observed effect
-of Wage on sales is not due to
-random chance but is a highly
-significant impact.
-Region 2.2 X 10-16 An extremely low p-value
-indicates near 99.99% certainty
-that the collective effect of the
-Region variable on sales is not
-due to random chance but is a
-highly significant impact.
-Table 2: ANOVA results
+
 We were successful in fostering trust in the dependability and resilience of our model by disclosing the
 findings of the following tests and being open about the underlying presumptions and constraints.
