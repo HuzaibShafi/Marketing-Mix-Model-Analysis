@@ -97,18 +97,22 @@ The model's fit and performance were assessed using standard metrics, including 
 The values of MSE (0.1781369), RMSE (0.4220627), and MAE (0.3431796) indicate that the model has a
 good fit to the data, with low average errors in predicting sales.
 ● Scatter Plot of Predicted vs. Actual Values (Linearity)
+<img width="468" alt="image" src="https://github.com/HuzaibShafi/market_Strategy/assets/17618846/209616a4-6adc-4b8b-a686-6d8c61fdf29c">
+
 Figure 5: Predicted vs. Actual Values (Training set)
 When most points fall on and around the line in a predicted vs. actual values plot for a training set, it
 indicates that the model has achieved a good fit for the training data. The close alignment between
 predicted and actual values suggests high accuracy showing low values of Mean Squared error, low
 residuals, and reliability in capturing the underlying patterns in the data.
 ● Residuals vs. Fitted Plot: (Homoscedasticity)
+<img width="412" alt="image" src="https://github.com/HuzaibShafi/market_Strategy/assets/17618846/621837d9-b22f-4d44-8c2b-99375df55dde">
 Figure 6: Residuals vs Fitted
 A random scatter of residuals around the zero line in a Residuals vs. Fitted Plot suggests that the model's
 predictions are unbiased and that it adequately captures the variability in the data. It suggests
 homoscedasticity, meaning that the variance of residuals is relatively constant across all levels of the
 independent variable(s).
 ● QQ Plot of Residuals (Normality)
+<img width="408" alt="image" src="https://github.com/HuzaibShafi/market_Strategy/assets/17618846/8f5aadce-89db-47ef-848a-f464d00be3eb">
 Figure 7: QQ plot
 The line in the QQ plot represents the expected quantiles of a normal distribution, and most points align
 closely with this line; it indicates that the residuals are approximately normally distributed. However, there
