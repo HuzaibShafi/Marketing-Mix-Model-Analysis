@@ -115,6 +115,7 @@ independent variable(s).
 ● QQ Plot of Residuals (Normality)
 <img width="408" alt="image" src="https://github.com/HuzaibShafi/market_Strategy/assets/17618846/8f5aadce-89db-47ef-848a-f464d00be3eb">
 Figure 7: QQ plot
+
 The line in the QQ plot represents the expected quantiles of a normal distribution, and most points align
 closely with this line; it indicates that the residuals are approximately normally distributed. However, there
 are a few points that deviate noticeably from the line, which indicates the presence of outliers or
