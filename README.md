@@ -1,4 +1,16 @@
-The task:
+**Situation:**
+Faced with the need to determine the most effective marketing strategy for an FMCG company to maximize sales and cost-efficiency.
+
+**Task:**
+Evaluate and compare three different marketing strategies, analyze their cost-effectiveness, and predict future sales to guide strategic decision-making.
+
+**Action:**
+- Conducted a comprehensive regression analysis to assess the performance of the three marketing strategies, examining various factors and their impact on sales.
+- Calculated the cost-effectiveness of each marketing strategy by correlating units sold with the respective marketing expenditures, providing a detailed financial assessment.
+- Utilized time series analysis to forecast sales for the upcoming session, incorporating historical data and trends to generate accurate and actionable sales predictions.
+
+**Result:**
+The evaluation and analysis enabled the FMCG company to identify the most cost-effective marketing strategy, optimize their marketing spend, and make informed decisions based on reliable sales forecasts, leading to improved resource allocation and increased sales efficiency.The task:
 
 A common market research or business analytics task is to build a sales model,
 also called a “marketing mix model” (MMM). For this project, imagine that the
