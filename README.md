@@ -35,6 +35,7 @@ models in data science, where the original data is bifurcated into two or three 
 used to build models, and the others are used to check the robustness and correctness of the
 model. For this, a sample () function (80: 20 split) in R was used to create two datasets, train_set
 and test_set, with the seed set to 123.
+
 MANAGERIAL SUMMARY OF RESULTS
 1. Sales are significantly impacted by marketing campaigns like promotions and banner
 advertisements. For example, an increase of one unit in online banner ads is linked to an
