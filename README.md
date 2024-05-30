@@ -10,7 +10,10 @@ Evaluate and compare three different marketing strategies, analyze their cost-ef
 - Utilized time series analysis to forecast sales for the upcoming session, incorporating historical data and trends to generate accurate and actionable sales predictions.
 
 **Result:**
-The evaluation and analysis enabled the FMCG company to identify the most cost-effective marketing strategy, optimize their marketing spend, and make informed decisions based on reliable sales forecasts, leading to improved resource allocation and increased sales efficiency.The task:
+The evaluation and analysis enabled the FMCG company to identify the most cost-effective marketing strategy, optimize their marketing spend, and make informed decisions based on reliable sales forecasts, leading to improved resource allocation and increased sales efficiency.
+
+#####################################################
+The task:
 
 A common market research or business analytics task is to build a sales model,
 also called a “marketing mix model” (MMM). For this project, imagine that the
